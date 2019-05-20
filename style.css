@@ -1,0 +1,31 @@
+#myTab {
+    margin-left: 400px;
+}
+
+.tab-content {
+    margin-left: 300px;
+}
+
+#b1 {
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+#b2 {
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+#butt1 {
+    background-color: green;
+    margin-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px; 
+}
+
+#butt2 {
+    background-color: green;
+    margin-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px; 
+}
